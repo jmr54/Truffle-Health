@@ -10,12 +10,12 @@ const patientList = [
      "amount" : 1200   
     },
     {"name": "Jake Max",
-    "hosptialName" : "Sweedish",
+    "hosptialName" : "Swedish",
     "date" : "10/10/2023",
     "amount" : 200 
     },
     {"name": "Adam Salder",
-    "hosptialName" : "St.Joesph",
+    "hosptialName" : "St. Francis",
     "date" : "05/15/2022",
     "amount" : 1000   
     },
