@@ -2,7 +2,7 @@ GET http://localhost:3000/patient/patientList
 
 ###
 
-GET http://localhost:3000/patient/Mike Daniel
+GET http://localhost:3000/patient/Mike Thomas
 
 ###
 
